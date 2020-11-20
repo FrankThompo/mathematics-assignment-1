@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy.stats
+linregress
+seaborn
+matplotlib
+matplotlib.pyplot
