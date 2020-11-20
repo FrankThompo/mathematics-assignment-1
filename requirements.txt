@@ -1,7 +1,5 @@
 numpy
 pandas
 scipy
-linregress
 seaborn
 matplotlib
-matplotlib.pyplot
