@@ -1,4 +1,4 @@
-# mathematics-assignment-1
+# Matrices, Probability, Statistics
 
 #### Click below to launch and view the assignment on binder
 
